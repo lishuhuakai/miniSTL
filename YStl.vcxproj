@@ -112,8 +112,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Exception.h" />
-    <ClInclude Include="List.h" />
-    <ClInclude Include="Vector.h" />
+    <ClInclude Include="List.hpp" />
+    <ClInclude Include="Queue.hpp" />
+    <ClInclude Include="Stack.hpp" />
+    <ClInclude Include="Vector.hpp" />
     <ClInclude Include="Operations.h" />
   </ItemGroup>
   <ItemGroup>

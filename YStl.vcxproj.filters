@@ -18,16 +18,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Vector.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="Exception.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Operations.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="List.h">
+    <ClInclude Include="Queue.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="List.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

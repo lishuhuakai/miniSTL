@@ -5,7 +5,7 @@ namespace YSTL
 	//
 	// CheckOrder 用于判断一个T类对象是否局部有序
 	//
-	template <typename T> 
+	template <typename T>
 	struct CheckOrder 
 	{
 		T pred; int& u;
